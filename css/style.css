@@ -1,0 +1,97 @@
+.header{
+	height: 100px;
+	background-color: darkseagreen;
+}
+h1{text-align: center;
+font-size: 30px;
+padding: 40px;
+}
+.container{
+	overflow: hidden;
+	margin: 50px 0px 0px 0px;
+
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 300px;
+	background-color: limegreen;
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 300px;
+	background-color: orange;
+}address{
+	text-align: center;
+}
+h4{
+	font-size:25px;
+}
+.wrapper{
+	overflow: hidden;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 100px;	
+}
+.purple{
+	background-color:purple;
+}
+.yellow{
+	background-color:yellow;
+}
+.oceanblue{
+	background-color:blue;
+}
+.container1{
+	overflow: hidden;
+	margin: 50px 0px 0px 0px;
+}
+.lime{
+	float: left;
+	width: 25%;
+	height: 100px;
+	background-color: lime;
+	border: 2px solid black;
+	box-sizing:border-box ;
+}
+.red{
+float: left;
+width: 25%;
+height: 100px;
+background-color: red;
+border: 2px solid black;
+box-sizing:border-box ;
+}
+.cyan{
+	float: left;
+	width: 25%;
+	height: 100px;
+	background-color: darkcyan;
+	border: 2px solid black;
+	box-sizing:border-box ;
+}
+.indigo{
+	float: right;
+	width: 25%;
+	height: 100px;
+	background-color: indigo;
+	border: 2px solid black;
+	box-sizing: border-box;
+}
+.footer{
+	height: 100px;
+	background-color: darkolivegreen;
+	margin: 50px 0px 0px 0px;
+}
+h5{
+	text-align: center;
+	font-size: 25px;
+	padding: 40px;
+}
